@@ -36,6 +36,8 @@ streamlit run spam.py
 ## 📊 Model Performance
 The model is trained on a labeled SMS dataset and achieves **high accuracy** in spam classification.
 
+##The code is in file spam.py
+
 ## ✅ Code Quality
 - The code is **clean**, **well-structured**, and **well-commented**.
 - Modular functions are used for text preprocessing.
